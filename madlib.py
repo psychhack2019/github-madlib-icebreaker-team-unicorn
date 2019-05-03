@@ -23,9 +23,9 @@ import os
 
 #person 1
 teamName = "Team Unicorn"
-synonymForNew = "Novel"
-sciencyVerb = "Research"
-buzzword = "Synergy"
+synonymForNew = "novel"
+sciencyVerb = "researching"
+buzzword = "synergy"
 
 #person 2
 number = "69"

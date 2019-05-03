@@ -35,16 +35,16 @@ somethingYouDidntInvent = "microwave"
 
 
 #person 3
-number2 = ""
-buzzword3 = ""
-scientistThatScoopsYourLabConstantly = ""
-dependentVariable = ""
+number2 = "42"
+buzzword3 = "self-actualization"
+scientistThatScoopsYourLabConstantly = "Doc Brown"
+dependentVariable = "level of hype"
 
 #person 4
-units = ""
-buzzword4 = ""
-supremeSocialogicalConcern = ""
-nounFewPeopleHaveHeardOf = ""
+units = "pirate-ninjas"
+buzzword4 = "blockchain"
+supremeSocialogicalConcern = "world peace"
+nounFewPeopleHaveHeardOf = "vibrator"
 
 
 

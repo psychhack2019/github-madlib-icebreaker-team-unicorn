@@ -28,10 +28,10 @@ sciencyVerb = ""
 buzzword = ""
 
 #person 2
-number = ""
-buzzword2 = ""
-sexyAdjective = ""
-somethingYouDidntInvent = ""
+number = "69"
+buzzword2 = "toolkit"
+sexyAdjective = "voluptuous"
+somethingYouDidntInvent = "microwave"
 
 
 #person 3

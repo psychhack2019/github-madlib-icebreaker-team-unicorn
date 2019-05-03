@@ -31,7 +31,7 @@ buzzword = "Synergy"
 number = "69"
 buzzword2 = "toolkit"
 sexyAdjective = "voluptuous"
-somethingYouDidntInvent = "microwave"
+somethingYouDidntInvent = "microwaves"
 
 
 #person 3
